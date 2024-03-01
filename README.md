@@ -14,6 +14,7 @@ Instalar las siguientes librerias
 
 ```bash
   pip Install pandas
-  pip install matplotlib
 ```
-    
+```bash
+  pip install matplotlib
+``` 
